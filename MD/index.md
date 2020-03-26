@@ -2,9 +2,9 @@
 
 ## 
 
-* <a href="https://waitti-long.github.io/MySQL8">MySQL8</a>
+* <a href="https://Waitti-long.github.io/MySQL8">MySQL8</a>
 
-
+* MySQL8: https://waitti-long.github.io/
 
 
 
